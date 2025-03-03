@@ -1,0 +1,36 @@
+v1.0
+Release
+
+v0.31b
+-call to D2X-XL Setup
+
+v0.21b
+-ability to check for updates
+
+v0.11b
+-ability to install high quality graphics
+
+v0.04b
+-enhanced error checking
+-better code comments
+-bug fixes
+
+v0.03b
+-Ability to install Desktop Shortcut
+-Ability to hit cancel buttons
+
+v0.02b
+-Ability to install high quality SFX
+-D2X Rar check
+-switched archive extractor to 7z.exe, to fix incompatibility with x64 O.S.
+-no need for temp dir, and some minor install dir changes.
+
+v0.01b
+-Ability to Install D2X from an RAR
+-Ability to Install Descent 2 either from fresh install, or old install
+-Ability to Install Descent 2: Vertigo Missions either from fresh install, or old install
+-Ability to Install Descent 1 Missions either from fresh install, or old install
+-Ability to Install Descent: Levels of the world third party CD
+-Ability to save previous install
+-File checks for everything but the D2X rar.
+-Uses Unrar and Unarj to extract from archives. Needs temp DIR, not compatible with x64 O.S.

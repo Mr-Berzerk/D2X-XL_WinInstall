@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsApplication1.Main">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>DAiUQAQEwCAgEAgUFACgBokKIQBBIwgBUoZ7IwkKQAA=</HashCode>
+      <FileName>Main.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsApplication1.Install">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAQIAAAAAAIAAAAAgAQAAA=</HashCode>
+      <FileName>Install.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsApplication1.WildCard">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WildCard.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
